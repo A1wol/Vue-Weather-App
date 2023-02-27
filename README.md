@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+1. Unpack city.list file
+2. npm install
 ```
 
 ### Compiles and hot-reloads for development
